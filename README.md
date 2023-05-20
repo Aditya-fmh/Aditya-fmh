@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya-fmh
+- 👋 Hi, I’m Aditya
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning HTML, PHP, MySQL and Bootstrap
 
