@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aditya
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning HTML, PHP, MySQL and Bootstrap
+- 👋 Hi, Lorem Ipsum
+- 👀 I’m interested in Lorem Ipsum
+- 🌱 I’m currently learning Lorem Ipsum
 
 <!---
 Aditya-fmh/Aditya-fmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
