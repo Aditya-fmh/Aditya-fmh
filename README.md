@@ -1,6 +1,5 @@
-- 👋 Hi, Lorem Ipsum
-- 👀 I’m interested in Lorem Ipsum
-- 🌱 I’m currently learning Lorem Ipsum
+- Average NPC
+- Currently interested in web programming and python
 
 <!---
 Aditya-fmh/Aditya-fmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
